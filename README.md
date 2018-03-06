@@ -1,4 +1,7 @@
 # mac-hep
+The goal is to keep everything linked in MacOSX both for simulation and analysis packages. 
+Decrease time for debugging installation issues. Faster time-to-physics. 
+
 Assuming pip or pip3 and virtualenv are installed, do
 ```bash
 
