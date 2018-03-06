@@ -11,7 +11,7 @@ toolz
 blessings
 progressbar2
 scikit-learn
-pyparsing==1.5.7
+pyparsing==2.1.1
 jupyter
 tensorflow
 https://github.com/Theano/Theano/zipball/master
