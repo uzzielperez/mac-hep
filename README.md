@@ -10,6 +10,13 @@ $ cd ~/path/to/project/
 $ source activate
 
 ```
+To deactivate,
+
+```bash
+
+$ source deactivate
+
+```
 ## Pip Requirements
 A recommended list of requirements are in requirements.txt. Use a hash # to comment out. 
 To install requirements:
